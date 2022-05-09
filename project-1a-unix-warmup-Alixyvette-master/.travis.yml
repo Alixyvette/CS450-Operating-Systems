@@ -1,0 +1,8 @@
+language: c
+dist: xenial
+script: make test-all
+addons:
+    apt:
+        update: true
+        packages:
+            - tcsh

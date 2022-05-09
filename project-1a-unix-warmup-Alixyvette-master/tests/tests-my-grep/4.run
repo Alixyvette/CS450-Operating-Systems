@@ -1,0 +1,1 @@
+cat INPUT_DIR/4.in | ./my-grep words
