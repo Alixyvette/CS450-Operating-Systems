@@ -1,0 +1,5 @@
+Name: Aaila Ali
+Email: aali27@hawk.iit.edu
+ID: A20343191
+Graph.PNG
+I made a change to Makefile so that I could run my datagen.c data generator fof my graph in qemu.

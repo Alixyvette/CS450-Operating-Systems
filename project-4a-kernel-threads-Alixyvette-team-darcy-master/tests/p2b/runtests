@@ -1,0 +1,4 @@
+#!/bin/bash
+base=$PWD/tests/p2b
+python $base/project2b.py --test-path $base $@ | tee runtests_2b.log
+exit $?
