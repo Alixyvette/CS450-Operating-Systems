@@ -264,27 +264,12 @@ Here are a few things to consider in your implementation:
     mapping and reduction is complete, it is the responsibility of the MR
     library to free everything.
 
-## Grading
 
-Your submission will be graded based on your implementation in `mapreduce.c`
-which should implement the above functions correctly and efficiently. It will
-be compiled with our test applications with the `-Wall -Werror -pthread -O`
-flags; it will also be valgrinded to check for memory errors.
-
-Your code will first be measured for correctness, ensuring that it performs
-the maps and reductions correctly. If you pass the correctness tests, your
-code will be tested for performance; higher performance will lead to better
-scores.
 
 ## Testing
 
-Note that we have not provided you with any tests this time. You should write your 
-own tests! A good one to start with would be the wordcount example above. You
-should definitely add some other tests though, and feel free to submit them along
-with your final work! Feel free to add targets to the `Makefile` to compile your
-tests easily. 
+Note that no tests have been provided this time. We must write our own!
 
-Good luck!
 
 
 ## Acknowledgements 
