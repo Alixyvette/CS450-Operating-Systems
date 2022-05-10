@@ -16,8 +16,8 @@ Before you begin, you will want to read my article on the boot
 sequence [here](http://cs.iit.edu/~khale/class/intro-os/boot/boot.html).
 
 For this project you'll be writing some x86 32-bit assembly code. 
-In particular, you'll be using AT&T syntax (not Intel syntax). If you're
-not familiar with this type of assembly, you'll want to first get up to
+In particular, we'll be using AT&T syntax (not Intel syntax). If you're
+not familiar with this type of assembly, we'll want to first get up to
 speed by reading through [this page](http://flint.cs.yale.edu/cs421/papers/x86-asm/asm.html). 
 
 
